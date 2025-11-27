@@ -55,5 +55,3 @@ The following enhancements demonstrate my growth and expertise across three core
 - [Enhancement Three - Databases](enhancement-three.html)
 
 ---
-
-*This ePortfolio showcases my technical competency and professional readiness in the field of computer science. Each enhancement demonstrates specific skills and learning outcomes achieved throughout the program.*
