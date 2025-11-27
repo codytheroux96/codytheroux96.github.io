@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Cody Theroux's ePortfolio for CS Capstone
 description: ePortfolio for CS Program Capstone at SNHU
+
+# Enable syntax highlighting
+highlighter: rouge
+
+# Markdown processor
+markdown: kramdown
