@@ -29,8 +29,7 @@ This enhancement strengthened the proxy in a meaningful, production-oriented way
 
 ## Repository Link
 
-📂 **[View Code Repository](https://github.com/codytheroux96/go-reverse-proxy/tree/feature/lrucache)**
-*Link to the repository*
+📂 **[View Code Repository](https://github.com/codytheroux96/go-reverse-proxy/tree/feature/lrucache){:target="_blank"}**
 
 ---
 

@@ -19,11 +19,9 @@ The biggest thing I learned while enhancing this artifact was how much planning 
 
 ---
 
-## Repository Links
+## Repository Link
 
-📂 **[View Code Repository](https://github.com/codytheroux96/go-reverse-proxy/tree/feature/health-checking-subsystem)**
-*Link to the repository*
-
+📂 **[View Code Repository](https://github.com/codytheroux96/go-reverse-proxy/tree/feature/health-checking-subsystem){:target="_blank"}**
 
 ---
 

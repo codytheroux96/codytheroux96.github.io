@@ -37,10 +37,9 @@ This database integration represents a significant architectural maturity milest
 
 ---
 
-## Repository Links
+## Repository Link
 
-📂 **[View Code Repository](https://github.com/codytheroux96/go-reverse-proxy/tree/feature/db-integration)**
-*Link to the repository*
+📂 **[View Code Repository](https://github.com/codytheroux96/go-reverse-proxy/tree/feature/db-integration){:target="_blank"}**
 
 ---
 
